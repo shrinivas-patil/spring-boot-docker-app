@@ -18,7 +18,7 @@ spec:
   spec:
    containers:
    - name: javawebappcontainer
-     image: sb-app
+     image: shriipatil/sb-app
      ports:
      - containerPort: 8080
 ---
